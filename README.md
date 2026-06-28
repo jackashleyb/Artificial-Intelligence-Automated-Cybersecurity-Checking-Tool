@@ -23,4 +23,8 @@ Researching the MITRE ATLAS and the OWASP top 10, gives you a better understandi
 
 4.  Proposed Mitigations in the scenario of an “AI Human Resource Chatbot” 
 
----------
+input sanitisation 
+Least privilege access
+Prompt partitioning 
+
+
