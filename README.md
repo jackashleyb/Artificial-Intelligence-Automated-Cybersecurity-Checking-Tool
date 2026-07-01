@@ -22,8 +22,8 @@ Stride stands for, Spoofing, Tampering, Repudiation, Information Discloser, Deni
 
 How something like this could work in practice? 
 
-
 Model the system, creating a data flow diagram to map out how the data moves, Identify Threats, Apply the STRIDE Framework and brainstorm how attackers might exploit the system. 
+
 
 4.  Proposed Mitigations in the scenario of an “AI Human Resource Chatbot” 
 
